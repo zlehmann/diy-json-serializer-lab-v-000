@@ -22,3 +22,7 @@ which is provided.
 3. Create the product `show` page and route. Add a link to the products `show` page called "Next Product" that
    will use AJAX to load the data for the next product without refreshing the page.
 4. Make sure tests pass, including already existing ones!
+
+**Note:** The test suite makes use of `selenium-webdriver` to test the
+AJAX-enabled pages. You will need to have Firefox installed for the
+tests to pass.
