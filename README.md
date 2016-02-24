@@ -3,7 +3,7 @@
 ## Objectives
 
   1. Write a JSON Serializer
-  2. Use that JSON to render information without page reload
+  2. Use that JSON Serializer to render information without page reload
 
 ## Introduction
 
