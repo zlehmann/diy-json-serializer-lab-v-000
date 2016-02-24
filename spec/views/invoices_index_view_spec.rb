@@ -1,8 +1,6 @@
 require "rails_helper"
 
 RSpec.describe "invoices_index_view" do
-  # let(:classroom) { Classroom.create(course_name: 'Math', semester: "Spring #{Time.now.year}") }
-
   before do
     products = ["tv", "vcr", "macbook", "macbook air", "mouse", "chair", "desk", "lamp", "water bottle"]
 
