@@ -19,6 +19,8 @@ lib-cov
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
+Gemfile.lock
+
 # Dependency directories
 node_modules
 jspm_packages
@@ -43,5 +45,3 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
-
-
