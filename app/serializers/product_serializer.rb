@@ -1,5 +1,5 @@
 class ProductSerializer
-  def self.serialize(post)
+  def self.serialize(product)
 
     # start with the open brace to create a valid JSON object
     serialized_product = '{'
